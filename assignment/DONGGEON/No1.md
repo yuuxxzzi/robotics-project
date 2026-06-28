@@ -1,4 +1,4 @@
-# 1\_definition.md\_gemini
+gemini
 
 ## 1\. 문제 정의 (Problem Definition)
 
